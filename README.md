@@ -6,7 +6,6 @@ It includes:
 - Python implementations of core NLP techniques
 - Experiments with traditional ML and deep learning models
 - Transformer-based models using Hugging Face
-- Research paper summaries
 
 ## Why this repository?
 - To build strong NLP fundamentals
@@ -21,7 +20,7 @@ It includes:
 - Hugging Face Transformers
 
 ## Progress
-- [ ] Text preprocessing
+- [X] Text preprocessing
 - [ ] Feature extraction
 - [ ] Word embeddings
 - [ ] Transformers

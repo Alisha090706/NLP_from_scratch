@@ -86,3 +86,18 @@ Unlike stemming, lemmatization produces meaningful words.
 - studies → study
 
 Lemmatization works best when Part-of-Speech (POS) is provided.
+
+---
+## Stopwords
+
+Stopwords are commonly used words that usually do not carry significant meaning.
+They are often removed to reduce noise in text data.
+
+### Why remove stopwords?
+- Reduces dimensionality
+- Improves model efficiency
+- Focuses on meaningful words
+
+### Example
+"This is a simple example of stopword removal"
+→ "simple example stopword removal"
