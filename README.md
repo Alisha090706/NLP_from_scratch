@@ -21,7 +21,7 @@ It includes:
 
 ## Progress
 - [X] Text preprocessing
-- [ ] Feature extraction
+- [X] Feature extraction
 - [ ] Word embeddings
 - [ ] Transformers
 - [ ] NLP tasks
