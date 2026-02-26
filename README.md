@@ -14,16 +14,13 @@ It includes:
 
 ## Tech Stack
 - Python
-- NLTK, spaCy
+- NLTK
 - scikit-learn
-- PyTorch
-- Hugging Face Transformers
+
 
 ## Progress
 - [X] Text preprocessing
 - [X] Feature extraction
-- [ ] Word embeddings
-- [ ] Transformers
-- [ ] NLP tasks
+- [X] Word embeddings
 
 > Notes are intentionally short and code-focused.
